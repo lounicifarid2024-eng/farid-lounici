@@ -1,4 +1,4 @@
-# Farid Lounissi
+# Farid Lounici
 
 ## 🇬🇧 About
 AI Consultant and Independent Sociologist specialized in ethical artificial intelligence.
