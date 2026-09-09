@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "profile": {
+    "display_name": "Farid Lounici",
+    "validation_scope": "self-documented technical profile",
+    "external_certification": false,
+    "roles": [
+      "Architecte de workflows IA",
+      "Consultant en transformation agentique",
+      "Formateur en pilotage professionnel des systèmes d’IA et workflows agentiques",
+      "Sociologue indépendant"
+    ],
+    "positioning_en": "Applied AI Workflow Architect & Human-AI Transformation Consultant"
+  },
+  "binome_intelligent": {
+    "principle": "L’IA propose ; l’humain décide.",
+    "human_decision_final": true,
+    "deny_by_default": true,
+    "required_human_gates": [
+      "publication",
+      "payment",
+      "contract_or_signature",
+      "deletion",
+      "confidential_data_release",
+      "irreversible_change"
+    ]
+  },
+  "evidence": {
+    "reference_date": "2026-09-09",
+    "applied_capability_index": 79,
+    "market_industrial_evidence_index_min": 65,
+    "market_industrial_evidence_index_max": 70,
+    "index_notice": "Internal comparative working index only; not a certification, diploma, scientific measurement, or guarantee of performance.",
+    "priority_gaps": [
+      "Evals and observability",
+      "API + RAG + MCP reference implementation",
+      "Measured client deployments",
+      "External certifications"
+    ]
+  },
+  "claims_policy": {
+    "allowed_evidence_types": [
+      "user_validated_audit",
+      "repository_evidence",
+      "external_credential"
+    ],
+    "forbidden_unverified_claims": [
+      "officially certified",
+      "scientifically proven",
+      "guaranteed compliance",
+      "guaranteed performance",
+      "100% autonomous"
+    ]
+  }
+}
