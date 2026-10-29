@@ -36,4 +36,4 @@ Formats possibles : prompts testés, templates Make/n8n, matrices de risques, pr
 5. Version et date de chaque démonstrateur visibles sur GitHub.
 
 ## Contact
-La prise de contact privée doit passer par une adresse professionnelle ou un formulaire conforme, **à vérifier et connecter**. Ne jamais publier de nom de client, téléphone, email, fichiers commerciaux ou secret dans un dépôt/issue public.
+La prise de contact doit passer **uniquement par le formulaire privé professionnel à vérifier et connecter**. Le domaine prévu est lounicifarid.com, sans vérification actuelle de disponibilité. Ne jamais publier de nom de client, téléphone, email, fichiers commerciaux ou secret dans un dépôt/issue public.
