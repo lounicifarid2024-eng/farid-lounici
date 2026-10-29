@@ -29,7 +29,7 @@ Préférer des dépôts cohérents à une multiplication artificielle de dépôt
 ## D. Parcours commercial
 `Visiteur GitHub → preuve technique → présentation de la prestation → prise de contact privée → entretien → devis → validation → livraison → maintenance`.
 
-**Blocage actuel :** aucune adresse commerciale n'a été confirmée dans ce travail. Ne pas afficher de lien `mailto:` inventé ni de formulaire fictif. Les issues publiques sont réservées aux retours sur les projets et non à la transmission de dossiers clients.
+**Blocage actuel :** le contact commercial est prévu **uniquement par formulaire privé**. Le domaine de travail lounicifarid.com est connu, mais l'état du formulaire n'a pas pu être confirmé. Ne pas publier de lien de contact avant vérification, et ne pas recevoir de dossiers clients via des issues publiques.
 
 ## E. Contrôle qualité avant publication
 - [ ] Nom, photographie et biographie réels et cohérents.
