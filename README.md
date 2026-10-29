@@ -19,7 +19,7 @@ Je conçois des méthodes et prototypes d'automatisation pour les **TPE et PME**
 ## Projets et preuves
 
 - **Binôme Intelligent** : contrat de gouvernance et validateur Python dans une [pull request en brouillon](https://github.com/lounicifarid2024-eng/farid-lounici/pull/2). Il s'agit d'une validation technique interne, **pas d'une certification externe**.
-- **Réception camping** : travaux de conception, démonstrateur et tests techniques à publier uniquement après revue et vérification.
+- **Réception camping** : [démonstrateur déterministe fictif](docs/DEMONSTRATEUR-CAMPING.md) avec tests automatiques, non connecté à WhatsApp ; travaux d'intégration métier encore à réaliser.
 - **Travail sociologique** : réflexion et recherche sur la relation éthique entre les personnes et les intelligences artificielles.
 
 ## Notre règle
