@@ -1,0 +1,26 @@
+name: LIL - démonstrateur sans déploiement
+on:
+  pull_request:
+    paths:
+      - 'src/lil_camping_demo.py'
+      - 'tests/test_lil_camping_demo.py'
+      - 'docs/DEMONSTRATEUR-CAMPING.md'
+      - '.github/workflows/lil-demo-quality.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Unit tests
+        run: python -m unittest discover -s tests -p "test_*.py" -v
+      - name: Syntax
+        run: python -m compileall -q src/lil_camping_demo.py tests/test_lil_camping_demo.py
+
+# Aucune publication, aucun paiement, aucun secret.
