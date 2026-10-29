@@ -10,7 +10,7 @@ Le connecteur de gestion de code permet de modifier le dépôt, mais ne permet p
 4. **Company** : `Lounici Intelligence Lab` (identité d'activité, ne pas prétendre à un statut de société vérifié sans preuve).
 5. **Location** : `France` (pas d'adresse privée).
 6. **Website** : insérer uniquement une URL professionnelle réellement opérationnelle et contrôlée.
-7. **Social links** : LinkedIn professionnel et autres comptes officiellement contrôlés, après vérification des URLs.
+7. **Social links** : LinkedIn professionnel et autres comptes officiellement contrôlés, après vérification des URLs. Le domaine de travail précédemment retenu est **lounicifarid.com** ; l'accès à ce site et au formulaire n'a pas pu être confirmé lors de cette vérification, donc ne pas encore l'utiliser comme lien commercial.
 8. **Pins** : épingler au départ `farid-lounici` ; ajouter ensuite le démonstrateur vérifié, le validateur de gouvernance et le portfolio technique. Ne pas épingler de maquettes trompeuses.
 
 ## B. Grand README sur le profil
