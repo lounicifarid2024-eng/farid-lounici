@@ -6,7 +6,7 @@
 
 ### Critères avant communication externe
 - [ ] Photo et présentation professionnelle conformes à l'identité réelle.
-- [ ] Canal de contact privé reçu et testé (pas une issue publique).
+- [ ] Formulaire de contact professionnel privé réellement opérationnel et testé (pas une issue publique).
 - [ ] Prix et périmètre validés (190 € indicatifs).
 - [ ] Identification légale du prestataire et mentions sur devis/facture vérifiées.
 - [ ] Conditions générales/prestation, calendrier de livraison et traitement des données définis.
