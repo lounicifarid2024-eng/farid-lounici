@@ -1,0 +1,31 @@
+name: Verify Audit IA TPE demo
+
+on:
+  pull_request:
+    paths:
+      - "examples/audit-ia-tpe/**"
+      - ".github/workflows/verify-audit-demo.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit-demo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Execute deterministic tests and create sample report
+        working-directory: examples/audit-ia-tpe
+        run: |
+          python -m unittest discover -s tests -v
+          python audit.py --input entreprise_fictive.json --output rapport_demo.md
+          grep -q "DONNEES FICTIVES" rapport_demo.md
