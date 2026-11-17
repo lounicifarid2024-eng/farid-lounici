@@ -1,0 +1,45 @@
+{
+  "company": "Atelier des Platanes (entreprise entierement fictive)",
+  "processes": [
+    {
+      "name": "Questions repetitives sur les horaires",
+      "weekly_volume": 55,
+      "minutes_per_case": 4,
+      "repetitive_pct": 85,
+      "data_sensitivity": "faible",
+      "decision_impact": "faible"
+    },
+    {
+      "name": "Classement des factures entrantes",
+      "weekly_volume": 35,
+      "minutes_per_case": 8,
+      "repetitive_pct": 70,
+      "data_sensitivity": "modere",
+      "decision_impact": "modere"
+    },
+    {
+      "name": "Decision d'eligibilite individuelle",
+      "weekly_volume": 20,
+      "minutes_per_case": 10,
+      "repetitive_pct": 80,
+      "data_sensitivity": "eleve",
+      "decision_impact": "eleve"
+    },
+    {
+      "name": "Preparation du planning hebdomadaire",
+      "weekly_volume": 8,
+      "minutes_per_case": 15,
+      "repetitive_pct": 35,
+      "data_sensitivity": "faible",
+      "decision_impact": "faible"
+    },
+    {
+      "name": "Demandes urgentes hors horaires",
+      "weekly_volume": null,
+      "minutes_per_case": null,
+      "repetitive_pct": null,
+      "data_sensitivity": "faible",
+      "decision_impact": "modere"
+    }
+  ]
+}
